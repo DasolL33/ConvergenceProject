@@ -1,6 +1,2 @@
 # ConvergenceProject
 ## Yay!
-### Hahaha
-
-
-
